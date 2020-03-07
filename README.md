@@ -1,1 +1,1 @@
-This repository has all codes related to numpy
+This repository contains all codes related to numpy
